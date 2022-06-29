@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvarajmamidi
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning data Structures and css
+- 🌱 I’m currently learning data Structures and javascript
 - 💞️ I’m looking to collaborate on doing projects and internships,as to gain experience and development 
 - 📫 To reach me :-mail - 19m61a0584@gmail.com and linkedin -https://www.linkedin.com/in/yuvaraj-mamidi-299570242/
 
